@@ -1,0 +1,17 @@
+{
+    "share_point": {
+    "client_id": "******",
+    "client_secret": "******",
+    "url": "******",
+    "folder_path": "******",
+    "subfolder_path": "******"
+    
+},
+    "aws_bucket": {
+     "aws_access_key_id": "******",
+     "aws_secret_access_key": "******",
+     "bucket_name": "******",
+     "bucket_subfolder": "******"
+ }
+}
+
